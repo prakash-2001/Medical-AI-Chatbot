@@ -1,4 +1,4 @@
-# Know Your Meds - AI Chatbot
+# Know Your Meds - Medical AI Chatbot
 
 A Streamlit-based medicine information chatbot that:
 - looks up age-specific dosage guidance from an Excel dataset (`tab2.xlsx`)
